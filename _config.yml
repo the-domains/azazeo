@@ -1,0 +1,28 @@
+name: Azazeo
+favicon: null
+layout_spectrum: 0.7214804361574352
+typography_spectrum: 0.4160663413349539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8911451280582696
+  lightness: 0.9866430959664285
+  saturation: 0.9987766654230654
+  rhythmicContrast: 0.6903668113518506
+purpose: []
