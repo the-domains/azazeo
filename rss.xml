@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Azazeo]]></title>
-        <description><![CDATA[Azazeo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Блог интернет-пользователя Azazeo]]></title>
+        <description><![CDATA[Блог интернет-пользователя Azazeo]]></description>
+        <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 21:36:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 22:54:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/399f8e4d-4970-4149-b637-ddcb2d907943.jpg">]]></description>
+            <link>https://thegrid.ai/azazeo/d164421b-46ae-4272-afbf-67e2ca8f93d2/index.html</link>
+            <guid isPermaLink="false">d164421b-46ae-4272-afbf-67e2ca8f93d2</guid>
+            <pubDate>Thu, 17 Dec 2015 22:54:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Star Wars: Return of the Force]]></title>
             <description><![CDATA[<article><h1>Star Wars: Return of the Force</h1><p>Нежданно-негаданно компания в которой я работаю проявила социальную активность и предоставила всем работникам возможность посмотреть Star Wars: The Force Awakens в день премьеры. Пускай не лучший кинотеатр в городе, но зато целиком для своих.</p></article>]]></description>
-            <link>undefinedstar-wars-return-of-the-force/index.html</link>
+            <link>https://thegrid.ai/azazeo/star-wars-return-of-the-force/index.html</link>
             <guid isPermaLink="false">0a373b46-5193-45b9-a8c7-89cfd6f981d3</guid>
             <pubDate>Thu, 17 Dec 2015 21:36:57 GMT</pubDate>
         </item>
