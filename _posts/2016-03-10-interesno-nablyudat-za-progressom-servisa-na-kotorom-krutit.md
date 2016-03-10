@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Интересно наблюдать за прогрессом сервиса, на котором крутится этот блог. Надо сказать, ребята работают и, как я вижу, всерьёз принимают обратную связь от пользователей.'
-datePublished: '2016-03-10T20:09:00.898Z'
-dateModified: '2016-03-10T20:08:37.900Z'
+datePublished: '2016-03-10T20:12:42.174Z'
+dateModified: '2016-03-10T20:12:29.263Z'
 title: The Grid
 author: []
 authors: []
