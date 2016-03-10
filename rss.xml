@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Блог интернет-пользователя Azazeo]]></title>
-        <description><![CDATA[Блог интернет-пользователя Azazeo]]></description>
+        <title><![CDATA[Azazeo's blog]]></title>
+        <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:34:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b8f001-f3a8-4bef-a7b3-728f56f9645f.jpg">]]></description>
             <link>https://thegrid.ai/azazeo/d4c94106-3828-44e1-9795-37f272863773/index.html</link>
             <guid isPermaLink="false">d4c94106-3828-44e1-9795-37f272863773</guid>
-            <pubDate>Thu, 10 Mar 2016 16:13:53 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 17:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
