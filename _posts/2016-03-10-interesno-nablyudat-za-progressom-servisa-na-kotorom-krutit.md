@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Интересно наблюдать за прогрессом сервиса, на котором крутится этот блог. Надо сказать, ребята работают и, как я вижу, всерьёз принимают обратную связь от пользователей.'
-datePublished: '2016-03-10T20:12:42.174Z'
-dateModified: '2016-03-10T20:12:29.263Z'
+datePublished: '2016-03-10T20:15:07.506Z'
+dateModified: '2016-03-10T20:12:57.593Z'
 title: The Grid
 author: []
 authors: []
