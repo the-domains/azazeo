@@ -1,6 +1,6 @@
 name: Azazeo
 favicon: null
-layout_spectrum: 0.88988
+layout_spectrum: 0.87061
 typography_spectrum: 0.38971
 title: "Azazeo's blog"
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.75
   saturation: 0.25
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
