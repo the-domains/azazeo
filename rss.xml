@@ -4,8 +4,15 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:44:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Texture]]></title>
+            <description><![CDATA[<article><h1>Texture</h1><p>Somewhere in Minsk</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7676a83-12da-42c2-9dbf-0f65aa7f753b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/azazeo/texture/index.html</link>
+            <guid isPermaLink="false">27063694-95c0-4090-ac52-1db7ef603d0f</guid>
+            <pubDate>Thu, 10 Mar 2016 21:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trakai]]></title>
             <description><![CDATA[<article><h1>Trakai</h1><p>Trakai - little town in a 15 miles away from Vilnius. Small, cozy.  Beautiful village houses and ugly soviet buildings are standing around main street. It's some kind of (semi)island the town stands on.</p></article>]]></description>
