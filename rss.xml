@@ -4,8 +4,15 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:51:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pillows]]></title>
+            <description><![CDATA[<article><h1>Pillows</h1><p>New ones</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206f2ed85d3844acffe4a7c8e4f9e958db254098.jpg"></article>]]></description>
+            <link>https://thegrid.ai/azazeo/pillows/index.html</link>
+            <guid isPermaLink="false">eda8b1ca-4cd9-4266-a7bf-5cbe4878e103</guid>
+            <pubDate>Thu, 10 Mar 2016 21:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Texture]]></title>
             <description><![CDATA[<article><h1>Texture</h1><p>Somewhere in Minsk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/934dd3f0e0c4e3149fb09f0d099fe0caffcbc8aa.jpg"></article>]]></description>
