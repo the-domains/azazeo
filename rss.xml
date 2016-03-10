@@ -4,7 +4,7 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:35:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/azazeo/419d4eec-fe21-4419-87e7-2016ff6d1ed4/index.html</link>
             <guid isPermaLink="false">419d4eec-fe21-4419-87e7-2016ff6d1ed4</guid>
             <pubDate>Thu, 10 Mar 2016 16:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aae34c90972fb0a948e55df7f625dfaf63dc0d3a.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/azazeo/9c1d3484-824d-4d84-a50e-6e4b36deaa86/index.html</link>
-            <guid isPermaLink="false">9c1d3484-824d-4d84-a50e-6e4b36deaa86</guid>
-            <pubDate>Wed, 30 Dec 2015 10:18:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
