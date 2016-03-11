@@ -4,8 +4,15 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 13:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 14:16:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lenin]]></title>
+            <description><![CDATA[<article><h1>Lenin</h1><p>Somewhere in Minsk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c67efa4f91bbf1b10bb992531b369b2055e3d7c3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/azazeo/lenin/index.html</link>
+            <guid isPermaLink="false">636f8518-0004-441b-bb4b-226b3a53281a</guid>
+            <pubDate>Fri, 11 Mar 2016 14:16:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Urban jungle]]></title>
             <description><![CDATA[<article><h1>Urban jungle</h1><p>Somewhere in Minsk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b58bb054d7d9b04b2e1828761db3eef0c28f1f0.jpg"></article>]]></description>
