@@ -1,20 +1,4 @@
-name: Azazeo
-favicon: null
-layout_spectrum: 0.66094
 typography_spectrum: 0.19188
-title: "Azazeo's blog"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71584406-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#98e27f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.66094
+analytics:
+  google: UA-71584406-1
+  facebook: null
+  twitter: null
+name: Azazeo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Azazeo's blog
+description: Text and Pictures
 purpose: []
