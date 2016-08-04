@@ -4,8 +4,15 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 14:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:42:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Эз, Тропа Ницше]]></title>
+            <description><![CDATA[<article><h1>Эз, Тропа Ницше</h1><h2>Eze Village</h2><p>Прогулки по Лазурному берегу</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg</link>
+            <guid isPermaLink="false">1e885b52-6c9c-4553-ba7d-a6aae3c60f95</guid>
+            <pubDate>Thu, 04 Aug 2016 14:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prague Subway Station]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e503e1e-f34e-426c-85c7-06d9f2314ff9.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/azazeo/texture/index.html</link>
             <guid isPermaLink="false">27063694-95c0-4090-ac52-1db7ef603d0f</guid>
             <pubDate>Thu, 10 Mar 2016 21:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trakai]]></title>
-            <description><![CDATA[<p>Trakai - little town in a 15 miles away from Vilnius. Small, cozy.  Beautiful village houses and ugly soviet buildings are standing around main street. It's some kind of (semi)island the town stands on.</p>]]></description>
-            <link>https://thegrid.ai/azazeo/trakai/index.html</link>
-            <guid isPermaLink="false">ee4a4c77-3c31-4625-a432-8a0324c6b209</guid>
-            <pubDate>Thu, 10 Mar 2016 21:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
