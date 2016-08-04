@@ -4,8 +4,15 @@
         <description><![CDATA[Azazeo's blog]]></description>
         <link>https://thegrid.ai/azazeo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 19:56:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/azazeo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Эз, Тропа Ницше]]></title>
+            <description><![CDATA[<article><h1>Эз, Тропа Ницше</h1><h2>Eze Village</h2><p>Прогулки по Лазурному берегу</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg</link>
+            <guid isPermaLink="false">d7c607ba-e998-4277-9f1b-f7704676aca0</guid>
+            <pubDate>Thu, 04 Aug 2016 19:56:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Эз, Тропа Ницше]]></title>
             <description><![CDATA[<article><h1>Эз, Тропа Ницше</h1><h2>Eze Village</h2><p>Прогулки по Лазурному берегу</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/azazeo/pillows/index.html</link>
             <guid isPermaLink="false">eda8b1ca-4cd9-4266-a7bf-5cbe4878e103</guid>
             <pubDate>Thu, 10 Mar 2016 21:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Texture]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7676a83-12da-42c2-9dbf-0f65aa7f753b.jpg">]]></description>
-            <link>https://thegrid.ai/azazeo/texture/index.html</link>
-            <guid isPermaLink="false">27063694-95c0-4090-ac52-1db7ef603d0f</guid>
-            <pubDate>Thu, 10 Mar 2016 21:41:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
