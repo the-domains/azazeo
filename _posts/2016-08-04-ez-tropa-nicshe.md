@@ -1,14 +1,15 @@
 ---
 description: Прогулки по Лазурному берегу
-dateModified: '2016-08-04T14:40:59.092Z'
-datePublished: '2016-08-04T14:41:52.721Z'
+dateModified: '2016-08-04T14:41:46.181Z'
+datePublished: '2016-08-04T19:56:07.575Z'
 title: 'Эз, Тропа Ницше'
-author: []
+author:
+  - []
 publisher: {}
 via: {}
-starred: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f7f8ac-747e-4f9a-90b4-e88b59842641.jpg
+starred: false
 sourcePath: _posts/2016-08-04-ez-tropa-nicshe.md
 inFeed: true
 hasPage: false
